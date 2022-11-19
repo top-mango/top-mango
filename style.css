@@ -15,8 +15,8 @@ body {
 
 @media screen and (max-width: 850px) {
   .img-container img {
-    height: 100vh;
-    width: 78vh;
+    width: 98%;
+    width: 83vh;
+    margin: auto;
   }
 }
-
