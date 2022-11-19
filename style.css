@@ -15,7 +15,7 @@ body {
 
 @media screen and (max-width: 850px) {
   .img-container img {
-    width: 87%;
+    width: 92%;
     margin: auto;
   }
 }
